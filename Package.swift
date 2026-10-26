@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MapLibre",
-            url: "https://github.com/WxByte/maplibre-native-dist/releases/download/2026.10.19-globe-terrain-ss.7/MapLibre.xcframework.zip",
-            checksum: "fd037f2aaa334e42b8bb24ff19c12f2f52f7456a6e8b5ba7e84cd9ad0557bb26")
+            url: "https://github.com/WxByte/maplibre-native-dist/releases/download/2026.10.19-globe-terrain-ss.8/MapLibre.xcframework.zip",
+            checksum: "ff7bba6d5853c4a32be30c621e13b4ecf6e4b704f44dbb39159d73c5bd0d32a5")
     ]
 )
